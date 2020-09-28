@@ -19,6 +19,6 @@ ScreenShot:
 <table>
   <tr>
     <td><img src="Images/Screenshot_1601270281.png" width="180"></td>
-    <td><img src="Screenshot_1601270655.png" width="180"></td>
+    <td><img src="Images/Screenshot_1601270655.png" width="180"></td>
   </tr>
 </table>
