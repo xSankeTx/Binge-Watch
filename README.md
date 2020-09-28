@@ -15,10 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-ScreenShot:
+# ScreenShots
 <table>
   <tr>
-    <td><img src="Images/Screenshot_1601270281.png" width="180"></td>
-    <td><img src="Images/Screenshot_1601270655.png" width="180"></td>
+    <td><img src="Images/Screenshot_1601270281.png" width="180">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="Images/Screenshot_1601270655.png" width="180"></td>
   </tr>
 </table>
